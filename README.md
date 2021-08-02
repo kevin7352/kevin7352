@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kevin7352
+- 👀 I’m interested in syetem kernel
+- 🌱 I’m currently learning core of Minix3
